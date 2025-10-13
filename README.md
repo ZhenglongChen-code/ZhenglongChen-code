@@ -56,7 +56,7 @@ I am a Master’s student at the Research Center for Mathematics and Interdiscip
 - [discrete_pinn_kernel](https://github.com/ZhenglongChen-code/discrete_pinn_kernel)  
   *Discrete PINN kernel methods for solving PDEs.*
 
-- [Personal Website](https://github.com/ZhenglongChen-code/ZhenglongChen-code.github.io)  
+- [Personal Website](https://zhenglongchen-code.github.io/)  
   *My portfolio and academic homepage.*
 
 ---

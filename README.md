@@ -126,12 +126,12 @@ I am particularly interested in:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://stats.justsong.cn/api/github?username=ZhenglongChen-code&theme=light&title_color=3273DC&icon_color=3273DC" alt="Stats" />
-</p>
+- **Main languages**: Python, C++, MATLAB, Julia
+- **Focus areas**: Scientific computing, PDE solvers, AI for Science
+- **Recent activity**: Regular updates on numerical methods & PINN projects
 
 <p align="center">
-  <img src="https://stats.justsong.cn/api/top-langs?username=ZhenglongChen-code&layout=compact&theme=light&title_color=3273DC" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZhenglongChen-code&theme=github" width="90%"/>
 </p>
 
 ---

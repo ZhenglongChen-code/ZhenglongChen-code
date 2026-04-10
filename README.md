@@ -126,9 +126,13 @@ I am particularly interested in:
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhenglongChen-code&show_icons=true&title_color=3273DC&icon_color=3273DC&text_color=595959&bg_color=ffffff&hide_border=true" alt="Stats" />
+<p align="center">
+  <img src="https://stats.justsong.cn/api/github?username=ZhenglongChen-code&theme=light&title_color=3273DC&icon_color=3273DC" alt="Stats" />
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhenglongChen-code&layout=compact&title_color=3273DC&text_color=595959&bg_color=ffffff&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://stats.justsong.cn/api/top-langs?username=ZhenglongChen-code&layout=compact&theme=light&title_color=3273DC" alt="Top Languages" />
+</p>
 
 ---
 

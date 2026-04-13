@@ -1,0 +1,19 @@
+---
+name: "选择一个 Issue 模板"
+description: "快速创建符合规范的 Issue"
+labels: []
+body:
+  - type: dropdown
+    id: template
+    attributes:
+      label: Issue 类型
+      description: 请选择你要创建的 Issue 类型
+      options:
+        - label: 🧩 功能/任务开发
+          value: feature_task.md
+        - label: 🐛 Bug 报告
+          value: bug_report.md
+        - label: 📚 文档/优化建议
+          value: docs_improve.md
+        - label: 🚀 版本/迭代规划
+          value: milestone_plan.md
